@@ -1,0 +1,29 @@
+body{
+    font-family: 'Tiro Devanagari Marathi', serif;
+}
+h1{
+    text-transform: capitalize;
+}
+.name-edit{
+  color: orange;
+}
+.box1{
+  text-align: justify;
+  text-transform: capitalize;
+  border: 1px solid white;
+  margin: 2px;
+  width: 48%;
+  float: left;
+}
+.box2{
+  text-align: justify;
+  text-transform: capitalize;
+  border: 1px solid white;
+  margin: 2px;
+  width: 48%;
+  float: left;
+}
+.box2 img{
+  width: 100%;
+
+}
