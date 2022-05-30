@@ -1,19 +1,31 @@
 body{
-    font-family: 'Tiro Devanagari Marathi', serif;
-    
+ margin: 0%;
 }
 h1{
-  text-transform: capitalize;
+   margin-left: 30px ;
+   text-transform: capitalize;
+
 }
 .name-style{
   color: orange;
 }
-.box1{
+.dox1{
   width: 40%;
- 
-  float: left;}
-.box1 img{
-  width: 100%;
+  padding: 10px ;
+  text-transform: capitalize;
+  margin-left: 15px;
+float: left;
 }
-  
 
+
+section{
+  height: 500px;
+  background-image: url(photo/top-banner.png);
+  background-repeat: no-repeat;
+}
+.dox1 img{
+ width: 100%;
+ margin-left: 70px;
+ ;
+}
+]
